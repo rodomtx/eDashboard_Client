@@ -1,0 +1,48 @@
+M:\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe.manifest
+M:\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.application
+M:\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe
+M:\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.pdb
+M:\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.xml
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.frm_opciones.resources
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pantalla_produccion.resources
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.Resources.resources
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbproj.GenerateResource.Cache
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.TrustInfo.xml
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe.manifest
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.application
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.xml
+M:\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pdb
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe.manifest
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.application
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.pdb
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.xml
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbprojResolveAssemblyReference.cache
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.frm_opciones.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pantalla_produccion.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.Resources.resources
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.TrustInfo.xml
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe.manifest
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.application
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.xml
+C:\Users\rodolfo.martinez\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\bin\Debug\eDashboard.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbprojAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.frm_opciones.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pantalla_produccion.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbproj.GenerateResource.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\Production Status.vbproj.CoreCompileInputs.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.TrustInfo.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe.manifest
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.application
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.xml
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Documents\33 Dev\eDashboard_client\Production Status\obj\Debug\eDashboard.pdb

@@ -1,0 +1,6 @@
+﻿01/20/2017
+Se corrigio problema con el contador del tiempo actual
+ ** el query apuntaba a cualquier producto terminado en lugar de solo el de determinada area**
+ Se agregaron alertas auditivas
+ ** Se agrego la opcion de ejecutar sonido 5 minutos antes de que se complete el takt time
+ ** Se agrego la opcion de ejecutar sonido al finalizar el takt time.

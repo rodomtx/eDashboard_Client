@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\pnapps01\lancermex_web\apps\eDs_client_foundry\|\\pnapps01\lancermex_web\apps\eDs_client\|\\pnapps01\lancermex_web\eDashboard\cliente_pantalla\|http://pnaux01/cliente_pantalla/|http://pnappso1/eDashboard/cliente_pantalla/</PublishUrlHistory>
+    <InstallUrlHistory>\\pnapps01\lancermex_web\apps\eDs_client\|\\pnapps01\lancermex_web\eDashboard\cliente_pantalla\|\\pnaux01\operaciones\cliente_pantalla\|http://pnaux01/cliente_pantalla/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+  </PropertyGroup>
+</Project>

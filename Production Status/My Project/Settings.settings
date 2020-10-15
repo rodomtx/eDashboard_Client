@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pndb01</Value>
+    </Setting>
+    <Setting Name="instancia" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sqlexpress</Value>
+    </Setting>
+    <Setting Name="bd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">operaciones</Value>
+    </Setting>
+    <Setting Name="linea" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IBD</Value>
+    </Setting>
+    <Setting Name="idioma" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ES_MX</Value>
+    </Setting>
+    <Setting Name="error_string" Type="System.String" Scope="User">
+      <Value Profile="(Default)">the horror ....</Value>
+    </Setting>
+    <Setting Name="pre_takt_time_time" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="pre_takt_time_sound" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="takt_time_sound" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

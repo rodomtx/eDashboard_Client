@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+eDashboard
+</name>
+</assembly>
+<members>
+<member name="T:eDashboard.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:eDashboard.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:eDashboard.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:eDashboard.pantalla_produccion.tmr_segundo_Tick(System.Object,System.EventArgs)">
+ Poner la hora en el reloj y
+  acomodar con respecto a la cantidad de digitos , una vez cada minuto deberia funcionar
+  se va a poner el interval a 1000 para que se actualize con el segundero (01/19/2016)
+</member>
+<member name="M:eDashboard.pantalla_produccion.tmr_semaforo_Tick(System.Object,System.EventArgs)">
+ jala la info de la base de datos
+ se ajusta a 60K para ver que tal va (01/19/2016)
+ prueba de sonido
+</member>
+<member name="M:eDashboard.pantalla_produccion.config_dashboard(System.Object)">
+ temporizaor del reloj de la pantalla      
+ ''' temporizador cada cuando se jala la informacion
+</member>
+</members>
+</doc>
